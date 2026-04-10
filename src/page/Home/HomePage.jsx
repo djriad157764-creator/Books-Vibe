@@ -1,6 +1,6 @@
 import React from "react";
 import Banner from "../Banner/Banner";
-import AllBooks from "../Books/allBooks";
+import AllBooks from "../AllBooks/AllBooks";
 
 const HomePage = () => {
   return (
