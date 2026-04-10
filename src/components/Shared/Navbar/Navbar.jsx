@@ -9,7 +9,7 @@ const navItem = [
 
 const Navbar = () => {
   return (
-    <div className="bg-base-100 shadow-sm mb-12">
+    <div className="bg-white/5 backdrop-blur-xl border-b border-white/10 shadow-lg mb-12 sticky top-0 z-50">
       <div className="navbar page-width mx-auto  ">
         <div className="navbar-start">
           <div className="dropdown">
@@ -35,12 +35,12 @@ const Navbar = () => {
               className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow"
             >
               {navItem.map((item) => (
-                <li className="" key={item.id}>
+                <li className="mb-4" key={item.id}>
                   <NavLink
                     className={({ isActive }) =>
                       isActive ?
-                        "text-yellow-300 text-lg border rounded-md font-semibold"
-                      : "text-lg"
+                        "text-blue-600 text-lg border rounded-md font-semibold"
+                      : "text-lg text-white"
                     }
                     to={item.path}
                   >
@@ -50,19 +50,19 @@ const Navbar = () => {
               ))}
             </ul>
           </div>
-          <a className="font-bold text-xl sm:text-2xl lg:text-[28px]">
+          <a className="font-bold text-xl sm:text-2xl lg:text-[28px] bg-linear-to-r from-blue-500 to-blue-800 bg-clip-text text-transparent">
             Book Vibe
           </a>
         </div>
         <div className="navbar-center hidden lg:flex">
           <ul className="menu menu-horizontal px-1">
             {navItem.map((item) => (
-              <li className="" key={item.id}>
+              <li className="mr-4" key={item.id}>
                 <NavLink
                   className={({ isActive }) =>
                     isActive ?
-                      "text-yellow-300 text-lg border rounded-md font-semibold"
-                    : "text-lg"
+                      "text-blue-600 text-lg border rounded-md font-semibold"
+                    : "text-lg text-white"
                   }
                   to={item.path}
                 >
