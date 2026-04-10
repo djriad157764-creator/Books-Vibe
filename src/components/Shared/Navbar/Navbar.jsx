@@ -12,7 +12,7 @@ const Navbar = () => {
     <div className="bg-white/5 backdrop-blur-xl border-b border-white/10 shadow-lg mb-12 sticky top-0 z-50">
       <div className="navbar page-width mx-auto  ">
         <div className="navbar-start">
-          <div className="dropdown">
+          <div className="dropdown text-white">
             <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -40,7 +40,7 @@ const Navbar = () => {
                     className={({ isActive }) =>
                       isActive ?
                         "text-blue-600 text-lg border rounded-md font-semibold"
-                      : "text-lg text-white"
+                      : "text-lg text-black"
                     }
                     to={item.path}
                   >
