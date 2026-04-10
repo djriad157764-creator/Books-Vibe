@@ -4,7 +4,7 @@ import { useLoaderData, useParams } from "react-router";
 const BooksDetails = () => {
   const { id } = useParams();
   const books = useLoaderData();
-  console.log( books);
+  console.log(books);
   return (
     <div className="text-white">
       <div className="">
@@ -18,7 +18,7 @@ const BooksDetails = () => {
         <div className="">
           <p>category</p>
         </div>
-        <div className="">
+        <div className="ergedrged">
           <p>review</p>
         </div>
         <div className="flex items-center gap-4">
