@@ -42,12 +42,8 @@ const BooksDetails = () => {
     return "https://via.placeholder.com/400x500?text=No+Cover";
   };
 
-  console.log("Params id:", id);
-  console.log("Books:", books);
-  console.log("FindBook:", findBook);
-
   return (
-    <div className="text-white flex flex-col lg:flex-row items-start gap-12 page-width px-5">
+    <div className="fade-up text-white flex flex-col lg:flex-row items-start gap-12 page-width px-5">
       <div className="lg:flex-1 w-full bg-white/5 backdrop-blur-sm rounded-2xl p-8 flex items-center justify-center border border-white/10">
         <img
           className="w-full max-w-md h-auto object-contain rounded-xl shadow-lg "

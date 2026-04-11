@@ -5,8 +5,12 @@ import AllBooks from "../AllBooks/AllBooks";
 const HomePage = () => {
   return (
     <div>
-      <Banner />
-      <AllBooks />
+      <div className="fade-up">
+        <Banner />
+      </div>
+      <div className="fade-up ">
+        <AllBooks />
+      </div>
     </div>
   );
 };

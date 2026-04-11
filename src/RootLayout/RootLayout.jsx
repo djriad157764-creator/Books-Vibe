@@ -3,8 +3,10 @@ import Navbar from "../components/Shared/Navbar/Navbar";
 import { Outlet } from "react-router";
 import Footer from "../page/Footer/Footer";
 import ScrollToTop from "../components/ScrollToTop";
+import useScrollAnimation from "../Hooks/useScrollAnimation";
 
 const RootLayout = () => {
+  useScrollAnimation();
   return (
     <div>
       <Navbar />
@@ -12,7 +14,9 @@ const RootLayout = () => {
       <main>
         <Outlet />
       </main>
-      <Footer />
+      <div className="fade-up">
+        <Footer />
+      </div>
     </div>
   );
 };
