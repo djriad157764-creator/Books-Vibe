@@ -33,7 +33,6 @@ const BooksDetails = () => {
     tags,
     yearOfPublishing,
     totalPages,
-    bookId,
   } = findBook;
 
   const generic = () => {
@@ -42,6 +41,10 @@ const BooksDetails = () => {
     }
     return "https://via.placeholder.com/400x500?text=No+Cover";
   };
+
+  console.log("Params id:", id);
+  console.log("Books:", books);
+  console.log("FindBook:", findBook);
 
   return (
     <div className="text-white flex flex-col lg:flex-row items-start gap-12 page-width px-5">
@@ -74,7 +77,9 @@ const BooksDetails = () => {
         <div className="flex items-center gap-4   border-b pb-4 mb-4 border-white/10">
           <p className="font-bold  text-neutral-400 ">Tag</p>
           {tags.map((tag, index) => (
-            <p className="text-[#23BE0A] font-medium px-4 py-1.5">#{tag}</p>
+            <p key={index} className="text-[#23BE0A] font-medium px-4 py-1.5">
+              #{tag}
+            </p>
           ))}
         </div>
         <div className=" max-w-100 mb-8">

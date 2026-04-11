@@ -8,17 +8,14 @@ const BooksCard = ({ book }) => {
     bookName,
     category,
     image,
-    publisher,
     rating,
-    review,
     tags,
-    yearOfPublishing,
-    totalPages,
-    bookId
+    bookId,
   } = book;
+
   return (
     <Link
-      to={`bookDetails/${bookId}`}
+      to={`/bookDetails/${bookId}`}
       className="group bg-white/8 backdrop-blur-md rounded-2xl p-5 border border-white/15 shadow-lg hover:shadow-2xl transition-all duration-300 hover:bg-white/12 hover:-translate-y-1"
     >
       <div className=" py-8 px-12 sm:px-16 md:px-20 lg:px-24 mb-4 bg-linear-to-br from-white/10 to-white/5 rounded-xl flex items-center justify-center">

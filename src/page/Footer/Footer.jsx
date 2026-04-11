@@ -60,7 +60,7 @@ const Footer = () => {
             <ul className="space-y-2">
               <li>
                 <a
-                  href="/"
+                  href="#"
                   className="text-white/50 hover:text-blue-400 transition-colors duration-300 text-sm"
                 >
                   Home
