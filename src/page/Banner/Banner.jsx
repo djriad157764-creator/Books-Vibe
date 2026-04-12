@@ -2,7 +2,7 @@ import BannerImage from "../../assets/pngwing.png";
 
 const Banner = () => {
   return (
-    <div className="mb-25 ">
+    <div className="mb-20 ">
       <div className="page-width gap-21   rounded-3xl lg:flex bg-black/20 backdrop-blur justify-between items-center">
         <div className="lg:ml-30 text-center lg:text-start">
           <div className="">

@@ -1,11 +1,21 @@
-import React from "react";
+import React, { useContext } from "react";
 import { useLoaderData, useParams } from "react-router";
 import PageNotFound from "../PageNotFound/NotFoundPage";
 import { FaStar } from "react-icons/fa";
+import { ReadsBookContext } from "../../context/BookContext";
 
 const BooksDetails = () => {
   const { id } = useParams();
   const books = useLoaderData();
+  const contextValue = useContext(ReadsBookContext);
+  const {
+    storedBook = [],
+    setStoredBook = () => {},
+    wishlistBook = [],
+    setWishlistBook = () => {},
+    handleReadNowBtn = () => {},
+    handleWishListNowBtn = () => {},
+  } = contextValue || {};
 
   if (!books || books.length === 0) {
     return (
@@ -42,6 +52,12 @@ const BooksDetails = () => {
     return "https://via.placeholder.com/400x500?text=No+Cover";
   };
 
+  const alreadyInWishlist = wishlistBook.find(
+    (b) => b.bookId === findBook.bookId,
+  );
+  const alreadyInReading = storedBook.find((b) => b.bookId === findBook.bookId);
+
+ 
   return (
     <div className="fade-up text-white flex flex-col lg:flex-row items-start gap-12 page-width px-5">
       <div className="lg:flex-1 w-full bg-white/5 backdrop-blur-sm rounded-2xl p-8 flex items-center justify-center border border-white/10">
@@ -106,11 +122,17 @@ const BooksDetails = () => {
           </div>
         </div>
         <div className="flex items-center justify-center lg:justify-start gap-4 ">
-          <button className="px-2 lg:px-6 py-3 cursor-pointer bg-linear-to-r from-blue-500 to-blue-700 text-white rounded-xl font-medium hover:scale-105 transition-all duration-300 shadow-lg">
-            📖 Read Now
+          <button
+            onClick={() => handleReadNowBtn(findBook)}
+            className={`px-2 lg:px-6 py-3   text-white rounded-xl font-medium  bg-linear-to-r from-blue-500 to-blue-700  ${alreadyInReading ? "opacity-60 cursor-not-allowed" : "cursor-pointer  hover:scale-105 transition-all duration-300 shadow-lg"}`}
+          >
+            {alreadyInReading ? "📖 Added ReadList" : "📖 Read Now"}
           </button>
-          <button className="px-2 lg:px-6 py-3 cursor-pointer bg-linear-to-r from-[#50B1C9] to-[#3B82F6] text-white rounded-xl font-medium hover:scale-105 transition-all duration-300 shadow-lg">
-            ❤️ Add to Wishlist
+          <button
+            onClick={() => handleWishListNowBtn(findBook)}
+            className={`px-2 lg:px-6 py-3   text-white rounded-xl font-medium bg-linear-to-r from-[#50B1C9] to-[#3B82F6] ${alreadyInWishlist ? " opacity-60 cursor-not-allowed" : " cursor-pointer hover:scale-105 transition-all duration-300 shadow-lg "}`}
+          >
+            {alreadyInWishlist ? "❤️ Added WishList" : "❤️ Add to Wishlist"}
           </button>
         </div>
       </div>

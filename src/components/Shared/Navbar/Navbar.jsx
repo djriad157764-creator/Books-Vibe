@@ -9,7 +9,7 @@ const navItem = [
 
 const Navbar = () => {
   return (
-    <div className="bg-white/5 backdrop-blur-xl border-b border-white/10 shadow-lg mb-12 sticky top-0 z-50">
+    <div className="bg-white/5 relative backdrop-blur-xl border-b border-white/10 shadow-lg mb-12 sticky top-0 z-50">
       <div className="navbar page-width mx-auto  ">
         <div className="navbar-start">
           <div className="dropdown text-white">
@@ -50,7 +50,7 @@ const Navbar = () => {
               ))}
             </ul>
           </div>
-          <a className="font-bold text-xl sm:text-2xl lg:text-[28px] bg-linear-to-r from-blue-500 to-blue-800 bg-clip-text text-transparent">
+          <a className="font-bold text-xl hidden lg:block sm:text-2xl lg:text-[28px] bg-linear-to-r from-blue-500 to-blue-800 bg-clip-text text-transparent">
             Book Vibe
           </a>
         </div>
@@ -80,6 +80,9 @@ const Navbar = () => {
             Sign Up
           </button>
         </div>
+        <h2 className="text-2xl absolute right-5 lg:hidden font-bold bg-linear-to-r from-blue-400 to-cyan-300 bg-clip-text text-transparent">
+          📚 Book Vibe
+        </h2>
       </div>
     </div>
   );

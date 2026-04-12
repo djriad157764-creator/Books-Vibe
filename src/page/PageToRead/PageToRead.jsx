@@ -1,11 +1,10 @@
-import React from 'react';
+import React, { useContext } from "react";
+import { ReadsBookContext } from "../../context/BookContext";
 
 const PageToRead = () => {
-    return (
-        <div>
-            Pages to Read
-        </div>
-    );
+  const contextValue = useContext(ReadsBookContext);
+  const { wishlistBook = [], setWishlistBook = () => {} } = contextValue || {};
+  return <div>Pages to Read</div>;
 };
 
 export default PageToRead;

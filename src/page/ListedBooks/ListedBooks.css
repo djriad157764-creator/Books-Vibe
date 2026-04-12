@@ -1,0 +1,9 @@
+.react-tabs__tab--selected {
+  color: #3b82f6 !important;
+  background: transparent !important;
+  border-bottom: 1px solid rgb(36, 6, 49) !important;
+}
+
+.react-tabs__tab:focus:after {
+  display: none;
+}
