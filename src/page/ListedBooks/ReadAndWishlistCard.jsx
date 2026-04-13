@@ -24,7 +24,7 @@ const ReadAndWishlistCard = ({ book }) => {
     return "https://via.placeholder.com/400x500?text=No+Cover";
   };
   return (
-    <div className=" border rounded-2xl border-white/10 lg:flex  items-center gap-6 p-6 page-width ">
+    <div className=" border ff-fade-up rounded-2xl border-white/10 lg:flex  items-center gap-6 p-6 page-width ">
       <div className=" bg-white/5 backdrop-blur-sm rounded-2xl py-8 mb-4 px-13 flex items-center justify-center border border-white/10">
         <img
           className="w-32.25  h-auto object-contain rounded-xl shadow-lg "

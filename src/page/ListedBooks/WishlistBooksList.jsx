@@ -5,7 +5,8 @@ import EmptyPage from "./EmptyPage";
 
 const WishlistBooksList = ({ sortType }) => {
   const contextValue = useContext(ReadsBookContext);
-  const { wishlistBook = [] } = contextValue || {};
+  const { wishlistBook = [], handleWishListClearBtn = () => {} } =
+    contextValue || {};
 
   const getFilteredBook = () => {
     const sortBook = [...wishlistBook];
@@ -26,6 +27,12 @@ const WishlistBooksList = ({ sortType }) => {
   }
   return (
     <>
+      <button
+        onClick={handleWishListClearBtn}
+        className="text-white w-fit btn border-0 font-medium text-base bg-primary"
+      >
+        Clear All
+      </button>
       {filteredBook.map((book, index) => (
         <ReadAndWishlistCard key={index} book={book} />
       ))}

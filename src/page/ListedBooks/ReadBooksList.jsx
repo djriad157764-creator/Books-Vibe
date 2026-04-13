@@ -6,7 +6,8 @@ import EmptyPage from "./EmptyPage";
 const ReadBooksList = ({ sortType }) => {
   const contextValue = useContext(ReadsBookContext);
 
-  const { storedBook = [] } = contextValue || {};
+  const { storedBook = [], handleReadListClearBtn = () => {} } =
+    contextValue || {};
 
   const getFilteredBook = () => {
     const sortBook = [...storedBook];
@@ -24,11 +25,17 @@ const ReadBooksList = ({ sortType }) => {
   const filteredBook = getFilteredBook();
 
   if (filteredBook.length === 0) {
-    return <EmptyPage name='ReadList' />
+    return <EmptyPage name="ReadList" />;
   }
 
   return (
     <>
+      <button
+        onClick={handleReadListClearBtn}
+        className="text-white w-fit btn border-0 font-medium text-base bg-primary"
+      >
+        Clear All
+      </button>
       {filteredBook.map((book, index) => (
         <ReadAndWishlistCard key={index} book={book} />
       ))}

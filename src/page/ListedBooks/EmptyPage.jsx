@@ -2,7 +2,7 @@ import React from 'react';
 
 const EmptyPage = ({ name }) => {
   return (
-    <div className="text-center ff-fade-up py-16 px-4 bg-white/5 backdrop-blur-sm rounded-2xl border border-white/10">
+    <div className="text-center ff-fade-up py-10 px-4 bg-white/5 backdrop-blur-sm rounded-2xl border border-white/10">
       <div className="flex flex-col items-center gap-4">
         <svg
           className="w-20 h-20 text-white/30"
@@ -24,7 +24,7 @@ const EmptyPage = ({ name }) => {
         </h3>
 
         <p className="text-white/50 text-center max-w-md">
-          Your wishlist is feeling lonely! 📚
+          Your {name} is feeling lonely! 📚
           <br />
           Start adding books from the home page.
         </p>
