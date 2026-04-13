@@ -1,9 +1,9 @@
-import React from "react";
 import Navbar from "../components/Shared/Navbar/Navbar";
 import { Outlet } from "react-router";
 import Footer from "../page/Footer/Footer";
 import ScrollToTop from "../components/ScrollToTop";
 import useScrollAnimation from "../Hooks/useScrollAnimation";
+import FloatingChatButton from "../Assistant/FloatingChatButton";
 
 const RootLayout = () => {
   useScrollAnimation();
@@ -11,12 +11,14 @@ const RootLayout = () => {
     <div>
       <Navbar />
       <ScrollToTop />
-      <main>
+      <main className="relative">
         <Outlet />
       </main>
       <div className="fade-up">
         <Footer />
       </div>
+
+      <FloatingChatButton />
     </div>
   );
 };

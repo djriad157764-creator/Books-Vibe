@@ -1,0 +1,1204 @@
+{
+  "knowledgeBase": [
+    {
+      "id": 1,
+      "question": "বাংলাদেশের রাজধানী কোথায়",
+      "answer": "ঢাকা বাংলাদেশের রাজধানী। এটি একটি অত্যন্ত ঘনবসতিপূর্ণ এবং প্রাণবন্ত শহর।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 2,
+      "question": "বাংলাদেশের জাতীয় ফুল কি",
+      "answer": "শাপলা বাংলাদেশের জাতীয় ফুল। এটি দেশের জলাশয়ে পাওয়া যায়।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 3,
+      "question": "বাংলাদেশের জাতীয় ফল কি",
+      "answer": "কাঁঠাল বাংলাদেশের জাতীয় ফল। এটি একটি মিষ্টি ও পুষ্টিকর ফল।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 4,
+      "question": "বাংলাদেশের জাতীয় পশু কি",
+      "answer": "রয়েল বেঙ্গল টাইগার বাংলাদেশের জাতীয় পশু। এটি সুন্দরবনে বাস করে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 5,
+      "question": "বাংলাদেশের জাতীয় পাখি কি",
+      "answer": "দোয়েল বাংলাদেশের জাতীয় পাখি। এটি কালো ও সাদা রঙের একটি সুন্দর পাখি।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 6,
+      "question": "বাংলাদেশের জাতীয় খেলা কি",
+      "answer": "কাবাডি বাংলাদেশের জাতীয় খেলা। এটি একটি ঐতিহ্যবাহী গ্রামীণ খেলা।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 7,
+      "question": "বাংলাদেশের স্বাধীনতা দিবস কবে",
+      "answer": "২৬শে মার্চ বাংলাদেশের স্বাধীনতা দিবস। ১৯৭১ সালে এই দিনে স্বাধীনতা ঘোষণা করা হয়।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 8,
+      "question": "বাংলাদেশের বিজয় দিবস কবে",
+      "answer": "১৬ই ডিসেম্বর বাংলাদেশের বিজয় দিবস। এই দিনে ১৯৭১ সালে বাংলাদেশ স্বাধীন হয়।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 9,
+      "question": "বাংলাদেশের মুদ্রার নাম কি",
+      "answer": "টাকা বাংলাদেশের মুদ্রার নাম। এটি 'টাকা' নামে পরিচিত।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 10,
+      "question": "বাংলাদেশের সবচেয়ে বড় জেলা কোনটি",
+      "answer": "রাঙামাটি বাংলাদেশের সবচেয়ে বড় জেলা। এটি পার্বত্য চট্টগ্রামে অবস্থিত।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 11,
+      "question": "বাংলাদেশের সবচেয়ে ছোট জেলা কোনটি",
+      "answer": "নড়াইল বাংলাদেশের সবচেয়ে ছোট জেলা। এটি খুলনা বিভাগে অবস্থিত।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 12,
+      "question": "বাংলাদেশের দীর্ঘতম সৈকত কোনটি",
+      "answer": "কক্সবাজার সমুদ্র সৈকত বিশ্বের দীর্ঘতম সমুদ্র সৈকত। এটি ১২০ কিলোমিটার দীর্ঘ।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 13,
+      "question": "বাংলাদেশের সর্বোচ্চ পর্বতশৃঙ্গ কোনটি",
+      "answer": "তাজিংডং (বিভিসানা) বাংলাদেশের সর্বোচ্চ পর্বতশৃঙ্গ। উচ্চতা ১২৮০ মিটার।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 14,
+      "question": "বাংলাদেশের প্রধান নদী কোনটি",
+      "answer": "পদ্মা, মেঘনা ও যমুনা বাংলাদেশের প্রধান নদী।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 15,
+      "question": "বাংলাদেশের প্রধান সমুদ্র বন্দর কোনটি",
+      "answer": "চট্টগ্রাম বন্দর বাংলাদেশের প্রধান সমুদ্র বন্দর।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 16,
+      "question": "বাংলাদেশের প্রধান বিমানবন্দর কোনটি",
+      "answer": "হজরত শাহজালাল আন্তর্জাতিক বিমানবন্দর ঢাকায় অবস্থিত প্রধান বিমানবন্দর।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 17,
+      "question": "বাংলাদেশের জাতীয় সংসদ ভবনের স্থপতি কে",
+      "answer": "লুই কান জাতীয় সংসদ ভবনের স্থপতি। এটি বিশ্ববিখ্যাত একটি স্থাপত্য।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 18,
+      "question": "বাংলাদেশের মুক্তিযুদ্ধে বীরশ্রেষ্ঠ কতজন",
+      "answer": "৭ জন বীরশ্রেষ্ঠ বাংলাদেশের মুক্তিযুদ্ধে শহীদ হন।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 19,
+      "question": "বাংলাদেশের সংবিধান কবে প্রণীত হয়",
+      "answer": "৪ নভেম্বর ১৯৭২ সালে বাংলাদেশের সংবিধান প্রণীত হয়।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 20,
+      "question": "বাংলাদেশের ভাষা আন্দোলন কবে হয়",
+      "answer": "১৯৫২ সালের ২১শে ফেব্রুয়ারি ভাষা আন্দোলন হয়।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 21,
+      "question": "React JS কি",
+      "answer": "React JS হল Facebook এর তৈরি একটি JavaScript লাইব্রেরি যা ইউজার ইন্টারফেস তৈরিতে ব্যবহৃত হয়।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 22,
+      "question": "JavaScript কি",
+      "answer": "JavaScript একটি প্রোগ্রামিং ভাষা যা ওয়েবসাইটে ইন্টারঅ্যাকটিভিটি যোগ করতে ব্যবহৃত হয়।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 23,
+      "question": "Node JS কি",
+      "answer": "Node JS একটি JavaScript রানটাইম যা সার্ভার-সাইড অ্যাপ্লিকেশন তৈরিতে ব্যবহৃত হয়।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 24,
+      "question": "MongoDB কি",
+      "answer": "MongoDB একটি NoSQL ডাটাবেস যা ডকুমেন্ট ভিত্তিক ডাটা সংরক্ষণ করে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 25,
+      "question": "Express JS কি",
+      "answer": "Express JS একটি Node JS ফ্রেমওয়ার্ক যা ওয়েব অ্যাপ্লিকেশন তৈরিতে ব্যবহৃত হয়।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 26,
+      "question": "Tailwind CSS কি",
+      "answer": "Tailwind CSS একটি ইউটিলিটি-ফার্স্ট CSS ফ্রেমওয়ার্ক যা দ্রুত ডিজাইন তৈরিতে সাহায্য করে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 27,
+      "question": "Bootstrap কি",
+      "answer": "Bootstrap একটি জনপ্রিয় CSS ফ্রেমওয়ার্ক যা রেসপনসিভ ওয়েব ডিজাইন তৈরিতে ব্যবহৃত হয়।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 28,
+      "question": "Git কি",
+      "answer": "Git একটি ভার্সন কন্ট্রোল সিস্টেম যা কোডের পরিবর্তন ট্র্যাক করতে ব্যবহৃত হয়।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 29,
+      "question": "GitHub কি",
+      "answer": "GitHub একটি প্ল্যাটফর্ম যেখানে ডেভেলপাররা তাদের কোড সংরক্ষণ ও শেয়ার করতে পারে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 30,
+      "question": "API কি",
+      "answer": "API (Application Programming Interface) হল একটি সফটওয়্যার ইন্টারফেস যা দুটি অ্যাপ্লিকেশনের মধ্যে যোগাযোগ স্থাপন করে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 31,
+      "question": "REST API কি",
+      "answer": "REST API হল একটি আর্কিটেকচারাল স্টাইল যা ওয়েব সার্ভিস তৈরিতে ব্যবহৃত হয়।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 32,
+      "question": "JSON কি",
+      "answer": "JSON (JavaScript Object Notation) একটি হালকা ওজনের ডাটা বিন্যাস যা ডাটা আদান-প্রদানে ব্যবহৃত হয়।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 33,
+      "question": "SQL কি",
+      "answer": "SQL (Structured Query Language) হল একটি ভাষা যা রিলেশনাল ডাটাবেস ম্যানেজ করতে ব্যবহৃত হয়।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 34,
+      "question": "HTML কি",
+      "answer": "HTML (HyperText Markup Language) হল ওয়েব পেজ তৈরির মূল ভাষা।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 35,
+      "question": "CSS কি",
+      "answer": "CSS (Cascading Style Sheets) হল স্টাইলিং ভাষা যা HTML এলিমেন্ট সাজাতে ব্যবহৃত হয়।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 36,
+      "question": "TypeScript কি",
+      "answer": "TypeScript হল JavaScript এর একটি সুপারসেট যা স্ট্যাটিক টাইপিং সাপোর্ট করে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 37,
+      "question": "Vue JS কি",
+      "answer": "Vue JS একটি প্রোগ্রেসিভ JavaScript ফ্রেমওয়ার্ক যা UI তৈরিতে ব্যবহৃত হয়।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 38,
+      "question": "Angular কি",
+      "answer": "Angular হল Google এর তৈরি একটি টাইপস্ক্রিপ্ট-ভিত্তিক ফ্রেমওয়ার্ক।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 39,
+      "question": "Next JS কি",
+      "answer": "Next JS হল React এর একটি ফ্রেমওয়ার্ক যা সার্ভার-সাইড রেন্ডারিং সাপোর্ট করে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 40,
+      "question": "Python কি",
+      "answer": "Python একটি উচ্চ-স্তরের প্রোগ্রামিং ভাষা যা সহজ এবং বহুমুখী।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 41,
+      "question": "Django কি",
+      "answer": "Django একটি Python ভিত্তিক ওয়েব ফ্রেমওয়ার্ক যা দ্রুত ডেভেলপমেন্টে সাহায্য করে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 42,
+      "question": "Flask কি",
+      "answer": "Flask একটি মাইক্রো ওয়েব ফ্রেমওয়ার্ক যা Python এ লেখা।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 43,
+      "question": "Java কি",
+      "answer": "Java একটি অবজেক্ট-ওরিয়েন্টেড প্রোগ্রামিং ভাষা যা প্ল্যাটফর্ম স্বাধীন।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 44,
+      "question": "PHP কি",
+      "answer": "PHP একটি সার্ভার-সাইড স্ক্রিপ্টিং ভাষা যা ওয়েব ডেভেলপমেন্টে ব্যবহৃত হয়।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 45,
+      "question": "Laravel কি",
+      "answer": "Laravel একটি PHP ফ্রেমওয়ার্ক যা MVC আর্কিটেকচার অনুসরণ করে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 46,
+      "question": "C++ কি",
+      "answer": "C++ একটি শক্তিশালী প্রোগ্রামিং ভাষা যা সিস্টেম সফটওয়্যার ও গেম ডেভেলপমেন্টে ব্যবহৃত হয়।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 47,
+      "question": "C# কি",
+      "answer": "C# একটি মাইক্রোসফটের তৈরি আধুনিক প্রোগ্রামিং ভাষা।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 48,
+      "question": "Ruby কি",
+      "answer": "Ruby একটি ডায়নামিক প্রোগ্রামিং ভাষা যা সহজ ও প্রোডাক্টিভ।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 49,
+      "question": "Ruby on Rails কি",
+      "answer": "Ruby on Rails একটি ওয়েব ফ্রেমওয়ার্ক যা Ruby ভাষায় লেখা।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 50,
+      "question": "Swift কি",
+      "answer": "Swift হল Apple এর তৈরি প্রোগ্রামিং ভাষা যা iOS অ্যাপ ডেভেলপমেন্টে ব্যবহৃত হয়।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 51,
+      "question": "Kotlin কি",
+      "answer": "Kotlin একটি আধুনিক প্রোগ্রামিং ভাষা যা Android অ্যাপ ডেভেলপমেন্টে ব্যবহৃত হয়।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 52,
+      "question": "Go ভাষা কি",
+      "answer": "Go (Golang) হল Google এর তৈরি একটি প্রোগ্রামিং ভাষা যা দ্রুত ও সহজ।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 53,
+      "question": "Rust কি",
+      "answer": "Rust একটি সিস্টেম প্রোগ্রামিং ভাষা যা নিরাপদ ও দ্রুত।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 54,
+      "question": "Docker কি",
+      "answer": "Docker একটি প্ল্যাটফর্ম যা কন্টেইনারে অ্যাপ্লিকেশন প্যাকেজ ও রান করতে সাহায্য করে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 55,
+      "question": "Kubernetes কি",
+      "answer": "Kubernetes একটি কন্টেইনার অর্কেস্ট্রেশন প্ল্যাটফর্ম।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 56,
+      "question": "AWS কি",
+      "answer": "AWS (Amazon Web Services) একটি ক্লাউড কম্পিউটিং প্ল্যাটফর্ম।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 57,
+      "question": "Firebase কি",
+      "answer": "Firebase হল Google এর একটি মোবাইল ও ওয়েব অ্যাপ্লিকেশন ডেভেলপমেন্ট প্ল্যাটফর্ম।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 58,
+      "question": "Redux কি",
+      "answer": "Redux একটি স্টেট ম্যানেজমেন্ট লাইব্রেরি যা JavaScript অ্যাপ্লিকেশনে ব্যবহৃত হয়।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 59,
+      "question": "GraphQL কি",
+      "answer": "GraphQL একটি API কোয়েরি ভাষা যা ক্লায়েন্টকে নির্দিষ্ট ডাটা চাইতে দেয়।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 60,
+      "question": "WebSocket কি",
+      "answer": "WebSocket একটি প্রোটোকল যা ক্লায়েন্ট ও সার্ভারের মধ্যে দ্বিমুখী যোগাযোগ স্থাপন করে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 61,
+      "question": "JWT কি",
+      "answer": "JWT (JSON Web Token) একটি টোকেন ভিত্তিক অথেনটিকেশন স্ট্যান্ডার্ড।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 62,
+      "question": "OAuth কি",
+      "answer": "OAuth একটি ওপেন স্ট্যান্ডার্ড যা সিকিউর অথোরাইজেশনের জন্য ব্যবহৃত হয়।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 63,
+      "question": "SSL কি",
+      "answer": "SSL (Secure Sockets Layer) একটি সিকিউরিটি প্রোটোকল যা এনক্রিপশন প্রদান করে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 64,
+      "question": "HTTPS কি",
+      "answer": "HTTPS হল HTTP এর সিকিউর ভার্সন যা SSL/TLS ব্যবহার করে এনক্রিপ্ট করে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 65,
+      "question": "VPN কি",
+      "answer": "VPN (Virtual Private Network) একটি সিকিউর নেটওয়ার্ক সংযোগ তৈরি করে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 66,
+      "question": "CDN কি",
+      "answer": "CDN (Content Delivery Network) একটি সার্ভার নেটওয়ার্ক যা কন্টেন্ট দ্রুত ডেলিভারি করে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 67,
+      "question": "DNS কি",
+      "answer": "DNS (Domain Name System) ডোমেইন নামকে IP ঠিকানায় রূপান্তর করে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 68,
+      "question": "IP ঠিকানা কি",
+      "answer": "IP ঠিকানা একটি সংখ্যাসূচক লেবেল যা নেটওয়ার্কের প্রতিটি ডিভাইসকে চিহ্নিত করে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 69,
+      "question": "LocalStorage কি",
+      "answer": "LocalStorage একটি ওয়েব API যা ব্রাউজারে ডাটা সংরক্ষণ করতে দেয়।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 70,
+      "question": "SessionStorage কি",
+      "answer": "SessionStorage LocalStorage এর মতো কিন্তু ডাটা শুধুমাত্র সেশন পর্যন্ত থাকে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 71,
+      "question": "Cookie কি",
+      "answer": "Cookie হল ছোট টেক্সট ফাইল যা ওয়েবসাইট ইউজারের ব্রাউজারে সংরক্ষণ করে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 72,
+      "question": "Cache কি",
+      "answer": "Cache হল একটি টেম্পোরারি স্টোরেজ যা ডাটা দ্রুত অ্যাক্সেসের জন্য রাখে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 73,
+      "question": "Algorithm কি",
+      "answer": "Algorithm হল একটি ধাপে ধাপে নির্দেশনা যা একটি সমস্যা সমাধান করে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 74,
+      "question": "Data Structure কি",
+      "answer": "Data Structure হল ডাটা সংগঠিত ও সংরক্ষণের একটি পদ্ধতি।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 75,
+      "question": "Array কি",
+      "answer": "Array হল একটি ডাটা স্ট্রাকচার যা একই টাইপের এলিমেন্ট সংরক্ষণ করে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 76,
+      "question": "Object কি",
+      "answer": "Object হল একটি ডাটা স্ট্রাকচার যা কী-ভ্যালু পেয়ার সংরক্ষণ করে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 77,
+      "question": "Function কি",
+      "answer": "Function হল একটি ব্লক অফ কোড যা নির্দিষ্ট কাজ করে এবং পুনরায় ব্যবহার করা যায়।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 78,
+      "question": "Loop কি",
+      "answer": "Loop হল একটি কন্ট্রোল স্ট্রাকচার যা কোড বারবার চালায়।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 79,
+      "question": "Conditional Statement কি",
+      "answer": "Conditional Statement (if-else) শর্তের উপর ভিত্তি করে কোড চালায়।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 80,
+      "question": "Promise কি",
+      "answer": "Promise হল একটি JavaScript অবজেক্ট যা অ্যাসিঙ্ক্রোনাস অপারেশনের ফলাফল প্রতিনিধিত্ব করে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 81,
+      "question": "Async/Await কি",
+      "answer": "Async/Await হল Promise এর সিনট্যাকটিক সুগার যা অ্যাসিঙ্ক্রোনাস কোড সহজ করে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 82,
+      "question": "Callback কি",
+      "answer": "Callback হল একটি ফাংশন যা অন্য ফাংশনের আর্গুমেন্ট হিসেবে পাস করা হয়।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 83,
+      "question": "Hoisting কি",
+      "answer": "Hoisting হল JavaScript এর একটি মেকানিজম যেখানে ভেরিয়েবল ও ফাংশন ডিক্লারেশন উপরে উঠে যায়।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 84,
+      "question": "Closure কি",
+      "answer": "Closure হল একটি ফাংশন যা তার বাইরের স্কোপের ভেরিয়েবল অ্যাক্সেস করতে পারে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 85,
+      "question": "Event Loop কি",
+      "answer": "Event Loop হল JavaScript এর একটি মেকানিজম যা অ্যাসিঙ্ক্রোনাস অপারেশন হ্যান্ডল করে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 86,
+      "question": "DOM কি",
+      "answer": "DOM (Document Object Model) হল একটি প্রোগ্রামিং ইন্টারফেস যা HTML ডকুমেন্ট প্রতিনিধিত্ব করে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 87,
+      "question": "Virtual DOM কি",
+      "answer": "Virtual DOM হল DOM এর একটি হালকা কপি যা React ব্যবহার করে পারফরম্যান্স উন্নত করতে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 88,
+      "question": "Component কি",
+      "answer": "Component হল UI এর একটি পুনর্ব্যবহারযোগ্য ব্লক যা React এ ব্যবহৃত হয়।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 89,
+      "question": "Props কি",
+      "answer": "Props (Properties) হল ডাটা যা কম্পোনেন্টে পাস করা হয়।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 90,
+      "question": "State কি",
+      "answer": "State হল একটি কম্পোনেন্টের অভ্যন্তরীণ ডাটা যা পরিবর্তন হতে পারে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 91,
+      "question": "Hooks কি",
+      "answer": "Hooks হল React এর ফাংশন যা স্টেট ও লাইফসাইকেল ফিচার ব্যবহার করতে দেয়।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 92,
+      "question": "useState কি",
+      "answer": "useState একটি React Hook যা ফাংশনাল কম্পোনেন্টে স্টেট যোগ করে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 93,
+      "question": "useEffect কি",
+      "answer": "useEffect একটি React Hook যা সাইড ইফেক্ট হ্যান্ডল করে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 94,
+      "question": "useContext কি",
+      "answer": "useContext একটি React Hook যা প্রপস ড্রিলিং ছাড়াই ডাটা শেয়ার করে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 95,
+      "question": "useReducer কি",
+      "answer": "useReducer একটি React Hook যা জটিল স্টেট ম্যানেজমেন্টে ব্যবহৃত হয়।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 96,
+      "question": "useRef কি",
+      "answer": "useRef একটি React Hook যা DOM এলিমেন্ট রেফারেন্স ধরে রাখে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 97,
+      "question": "useMemo কি",
+      "answer": "useMemo একটি React Hook যা ব্যয়বহুল হিসাব মেমোইজ করে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 98,
+      "question": "useCallback কি",
+      "answer": "useCallback একটি React Hook যা ফাংশন মেমোইজ করে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 99,
+      "question": "Responsive Design কি",
+      "answer": "Responsive Design হল একটি ওয়েব ডিজাইন পদ্ধতি যা বিভিন্ন ডিভাইসে ভালো দেখায়।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 100,
+      "question": "Mobile First Design কি",
+      "answer": "Mobile First Design হল একটি পদ্ধতি যেখানে প্রথমে মোবাইল ডিজাইন করে তারপর বড় স্ক্রিনের জন্য করা হয়।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 101,
+      "question": "SEO কি",
+      "answer": "SEO (Search Engine Optimization) হল ওয়েবসাইট সার্চ ইঞ্জিনে ভালো র্যাংক করার কৌশল।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 102,
+      "question": "UX কি",
+      "answer": "UX (User Experience) হল ইউজার কীভাবে একটি প্রোডাক্টের সাথে ইন্টারঅ্যাক্ট করে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 103,
+      "question": "UI কি",
+      "answer": "UI (User Interface) হল একটি প্রোডাক্টের ভিজুয়াল উপাদান।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 104,
+      "question": "Agile Methodology কি",
+      "answer": "Agile Methodology হল একটি প্রজেক্ট ম্যানেজমেন্ট পদ্ধতি যা পুনরাবৃত্তিমূলক ডেভেলপমেন্টে ফোকাস করে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 105,
+      "question": "Scrum কি",
+      "answer": "Scrum হল একটি Agile ফ্রেমওয়ার্ক যা টিমের কাজ পরিচালনা করে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 106,
+      "question": "Kanban কি",
+      "answer": "Kanban একটি ভিজুয়াল ওয়ার্ক ম্যানেজমেন্ট সিস্টেম।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 107,
+      "question": "DevOps কি",
+      "answer": "DevOps হল ডেভেলপমেন্ট ও অপারেশনের সংমিশ্রণ যা ডেলিভারি দ্রুত করে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 108,
+      "question": "CI/CD কি",
+      "answer": "CI/CD হল Continuous Integration এবং Continuous Delivery যা কোড ডেপ্লয়মেন্ট অটোমেট করে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 109,
+      "question": "Unit Testing কি",
+      "answer": "Unit Testing হল একটি টেস্টিং পদ্ধতি যা কোডের ছোট ইউনিট টেস্ট করে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 110,
+      "question": "Jest কি",
+      "answer": "Jest একটি JavaScript টেস্টিং ফ্রেমওয়ার্ক যা React অ্যাপ্লিকেশনে জনপ্রিয়।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 111,
+      "question": "Cypress কি",
+      "answer": "Cypress একটি আধুনিক ফ্রন্ট-এন্ড টেস্টিং টুল যা E2E টেস্টিং করে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 112,
+      "question": "Webpack কি",
+      "answer": "Webpack একটি মডিউল বান্ডলার যা জাভাস্ক্রিপ্ট ফাইল বান্ডল করে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 113,
+      "question": "Vite কি",
+      "answer": "Vite একটি আধুনিক বিল্ড টুল যা দ্রুত ডেভেলপমেন্ট সার্ভার ও বান্ডলিং করে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 114,
+      "question": "Babel কি",
+      "answer": "Babel একটি ট্রান্সপাইলার যা আধুনিক JavaScript পুরানো ব্রাউজারে চালাতে পারে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 115,
+      "question": "ESLint কি",
+      "answer": "ESLint একটি লিন্টিং টুল যা JavaScript কোডের সমস্যা খুঁজে বের করে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 116,
+      "question": "Prettier কি",
+      "answer": "Prettier একটি কোড ফরম্যাটার যা কোডের স্টাইল ইউনিফর্ম করে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 117,
+      "question": "NPM কি",
+      "answer": "NPM (Node Package Manager) হল Node.js এর ডিফল্ট প্যাকেজ ম্যানেজার।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 118,
+      "question": "Yarn কি",
+      "answer": "Yarn হল একটি প্যাকেজ ম্যানেজার যা NPM এর বিকল্প।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 119,
+      "question": "pnpm কি",
+      "answer": "pnpm একটি দ্রুত ও ডিস্ক-দক্ষ প্যাকেজ ম্যানেজার।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 120,
+      "question": "Figma কি",
+      "answer": "Figma একটি ক্লাউড-ভিত্তিক ডিজাইন টুল যা UI/UX ডিজাইনে ব্যবহৃত হয়।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 121,
+      "question": "Adobe XD কি",
+      "answer": "Adobe XD একটি ভেক্টর ডিজাইন টুল যা UI/UX ডিজাইনে ব্যবহৃত হয়।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 122,
+      "question": "Photoshop কি",
+      "answer": "Photoshop Adobe এর একটি ইমেজ এডিটিং সফটওয়্যার।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 123,
+      "question": "Illustrator কি",
+      "answer": "Illustrator Adobe এর একটি ভেক্টর গ্রাফিক্স এডিটিং সফটওয়্যার।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 124,
+      "question": "Premiere Pro কি",
+      "answer": "Premiere Pro Adobe এর একটি ভিডিও এডিটিং সফটওয়্যার।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 125,
+      "question": "After Effects কি",
+      "answer": "After Effects Adobe এর একটি মোশন গ্রাফিক্স ও ভিজুয়াল ইফেক্ট সফটওয়্যার।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 126,
+      "question": "Blender কি",
+      "answer": "Blender একটি ওপেন সোর্স 3D ক্রিয়েশন সফটওয়্যার।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 127,
+      "question": "Unity কি",
+      "answer": "Unity একটি ক্রস-প্ল্যাটফর্ম গেম ইঞ্জিন।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 128,
+      "question": "Unreal Engine কি",
+      "answer": "Unreal Engine Epic Games এর একটি শক্তিশালী গেম ইঞ্জিন।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 129,
+      "question": "AI কি",
+      "answer": "AI (Artificial Intelligence) হল মেশিনের মাধ্যমে মানুষের বুদ্ধিমত্তা অনুকরণ করা।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 130,
+      "question": "Machine Learning কি",
+      "answer": "Machine Learning হল AI এর একটি সাবসেট যা ডাটা থেকে শিখতে পারে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 131,
+      "question": "Deep Learning কি",
+      "answer": "Deep Learning হল Machine Learning এর একটি সাবসেট যা নিউরাল নেটওয়ার্ক ব্যবহার করে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 132,
+      "question": "Neural Network কি",
+      "answer": "Neural Network হল একটি কম্পিউটিং সিস্টেম যা মানুষের মস্তিষ্কের অনুকরণ করে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 133,
+      "question": "NLP কি",
+      "answer": "NLP (Natural Language Processing) হল AI এর একটি শাখা যা ভাষা প্রক্রিয়াকরণ করে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 134,
+      "question": "ChatGPT কি",
+      "answer": "ChatGPT হল OpenAI এর একটি ভাষা মডেল যা কথোপকথন করতে পারে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 135,
+      "question": "Copilot কি",
+      "answer": "Copilot হল GitHub এর AI পেয়ার প্রোগ্রামার যা কোড সাজেস্ট করে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 136,
+      "question": "Blockchain কি",
+      "answer": "Blockchain একটি বিকেন্দ্রীভূত ডিজিটাল লেজার যা লেনদেন রেকর্ড করে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 137,
+      "question": "Bitcoin কি",
+      "answer": "Bitcoin হল প্রথম এবং সবচেয়ে জনপ্রিয় ক্রিপ্টোকারেন্সি।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 138,
+      "question": "Ethereum কি",
+      "answer": "Ethereum একটি ব্লকচেইন প্ল্যাটফর্ম যা স্মার্ট কন্ট্রাক্ট সাপোর্ট করে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 139,
+      "question": "Web3 কি",
+      "answer": "Web3 হল ইন্টারনেটের পরবর্তী প্রজন্ম যা ব্লকচেইন ভিত্তিক।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 140,
+      "question": "Metaverse কি",
+      "answer": "Metaverse হল একটি ভার্চুয়াল বিশ্ব যেখানে মানুষ ইন্টারঅ্যাক্ট করতে পারে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 141,
+      "question": "VR কি",
+      "answer": "VR (Virtual Reality) একটি কম্পিউটার-জেনারেটেড সিমুলেশন যা ব্যবহারকারীকে নিমজ্জিত করে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 142,
+      "question": "AR কি",
+      "answer": "AR (Augmented Reality) বাস্তব জগতে ডিজিটাল উপাদান যুক্ত করে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 143,
+      "question": "IoT কি",
+      "answer": "IoT (Internet of Things) হল ইন্টারনেটের সাথে সংযুক্ত ডিভাইসের নেটওয়ার্ক।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 144,
+      "question": "Big Data কি",
+      "answer": "Big Data হল বড় ও জটিল ডাটা সেট যা ঐতিহ্যগতভাবে প্রক্রিয়া করা কঠিন।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 145,
+      "question": "Data Science কি",
+      "answer": "Data Science ডাটা থেকে জ্ঞান ও ইনসাইট বের করার একটি ক্ষেত্র।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 146,
+      "question": "Cybersecurity কি",
+      "answer": "Cybersecurity কম্পিউটার সিস্টেম ও ডাটাকে সাইবার আক্রমণ থেকে রক্ষা করে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 147,
+      "question": "Cloud Computing কি",
+      "answer": "Cloud Computing ইন্টারনেটের মাধ্যমে কম্পিউটিং সার্ভিস প্রদান করে।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 148,
+      "question": "Serverless কি",
+      "answer": "Serverless সার্ভার ব্যবস্থাপনা ছাড়াই অ্যাপ্লিকেশন ডেপ্লয় করতে দেয়।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 149,
+      "question": "Microservices কি",
+      "answer": "Microservices একটি আর্কিটেকচারাল স্টাইল যেখানে অ্যাপ্লিকেশন ছোট সার্ভিসে বিভক্ত।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    },
+    {
+      "id": 150,
+      "question": "Monolithic Architecture কি",
+      "answer": "Monolithic Architecture একটি ঐতিহ্যবাহী আর্কিটেকচার যেখানে পুরো অ্যাপ্লিকেশন এক ইউনিট।",
+      "taughtBy": "system",
+      "timestamp": "2024-01-01",
+      "status": "approved"
+    }
+  ]
+}
