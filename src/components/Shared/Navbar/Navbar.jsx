@@ -32,7 +32,7 @@ const Navbar = () => {
             </div>
             <ul
               tabIndex="-1"
-              className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow"
+              className="menu menu-sm dropdown-content  bg-white/80 backdrop-blur-3xl rounded-box z-1 mt-3 w-52 p-2 shadow"
             >
               {navItem.map((item) => (
                 <li className="mb-4" key={item.id}>
@@ -48,6 +48,14 @@ const Navbar = () => {
                   </NavLink>
                 </li>
               ))}
+              <div className="flex flex-col gap-2">
+                <button className="btn bg-linear-to-r from-gray-700 to-purple-700 border-0 text-white  hover:-translate-y-0.5 transition-all duration-300 text-lg rounded-lg flex">
+                  Sign In
+                </button>
+                <button className="btn bg-linear-to-r from-blue-500 to-purple-600 border-0 text-white  hover:-translate-y-0.5 transition-all duration-300 text-lg rounded-lg flex">
+                  Sign Up
+                </button>
+              </div>
             </ul>
           </div>
           <a className="font-bold text-xl hidden lg:block sm:text-2xl lg:text-[28px] bg-linear-to-r from-blue-500 to-blue-800 bg-clip-text text-transparent">
