@@ -186,7 +186,7 @@ const BookProvider = ({ children }) => {
                 toast.dismiss(t.id);
                 setStoredBook([]);
                 toast.success(`🗑️ ${storedBook.length} books removed!`, {
-                  duration: 3000,
+                  duration: 2000,
                   icon: "✅",
                 });
               }}
@@ -204,7 +204,7 @@ const BookProvider = ({ children }) => {
         </div>
       ),
       {
-        duration: 5000,
+        duration: 2000,
         position: "top-center",
       },
     );
@@ -254,7 +254,7 @@ const BookProvider = ({ children }) => {
         </div>
       ),
       {
-        duration: 10000,
+        duration: 2000,
         position: "top-center",
       },
     );
