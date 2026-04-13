@@ -23,8 +23,8 @@ const FloatingChatButton = () => {
               className="w-10 h-10 rounded-full object-cover border-2 border-white/50 group-hover:scale-110 transition-transform"
             />
             {/* টেক্সট টুলটিপ */}
-            <div className="absolute -top-8 right-0 bg-gray-800 text-white text-xs px-2 py-1 rounded-lg whitespace-nowrap opacity-0 group-hover:opacity-100 transition-opacity duration-300 pointer-events-none">
-              Ask Gemma AI 💬
+            <div className="absolute -top-8 right-0 bg-gray-800 text-white text-xs px-2 py-1 rounded-lg whitespace-nowrap opacity-80 group-hover:opacity-100 transition-opacity duration-300 pointer-events-none">
+              Ask Question 💬
             </div>
           </div>
         )
