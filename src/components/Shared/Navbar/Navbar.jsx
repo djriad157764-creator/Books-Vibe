@@ -73,10 +73,10 @@ const Navbar = () => {
           </ul>
         </div>
         <div className="lg:navbar-end space-x-4 ">
-          <button className="btn bg-[#23BE0A] text-white  text-lg rounded-lg hidden lg:flex">
+          <button className="btn bg-white/10 backdrop-blur-sm border border-white/20 hover:-translate-y-0.5  text-white hover:bg-white/20 transition-all duration-300 text-lg rounded-lg hidden lg:flex">
             Sign In
           </button>
-          <button className="btn bg-[#59C6D2] text-white  text-lg rounded-lg hidden lg:flex">
+          <button className="btn bg-linear-to-r from-blue-500 to-purple-600 border-0 text-white  hover:-translate-y-0.5 transition-all duration-300 text-lg rounded-lg hidden lg:flex">
             Sign Up
           </button>
         </div>
@@ -89,3 +89,5 @@ const Navbar = () => {
 };
 
 export default Navbar;
+
+
