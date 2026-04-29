@@ -6,7 +6,7 @@ export const ReadsBookContext = createContext();
 
 const BookProvider = ({ children }) => {
   const newDate = new Date();
-  console.log(newDate);
+ 
   // get data from localStorage
   const loadFromLocalStorage = (key, defaultValue) => {
     const saveData = localStorage.getItem(key);
